@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;700&family=Noto+Sans+JP:wght@300;400&display=swap');
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Noto Sans JP', sans-serif;
+      font-weight: 300;
+      background: #fafaf8;
+      color: #2c2c2c;
+      line-height: 1.9;
+    }
+    header {
+      background: #1a1a2e;
+      color: #f0f0e8;
+      padding: 60px 40px;
+      text-align: center;
+    }
+    header h1 {
+      font-family: 'Noto Serif JP', serif;
+      font-size: 2rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+    }
+    header p {
+      margin-top: 10px;
+      font-size: 0.85rem;
+      color: #aaa;
+      letter-spacing: 0.05em;
+    }
+    main {
+      max-width: 720px;
+      margin: 60px auto;
+      padding: 0 24px 80px;
+    }
+    section {
+      margin-bottom: 48px;
+    }
+    h2 {
+      font-family: 'Noto Serif JP', serif;
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: #1a1a2e;
+      border-left: 3px solid #1a1a2e;
+      padding-left: 12px;
+      margin-bottom: 16px;
+    }
+    p {
+      font-size: 0.95rem;
+      color: #444;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: #999;
+      padding: 40px;
+      border-top: 1px solid #e0e0e0;
+    }
+  </style>
+</head>
+<body>
+<header>
+  <h1>Privacy Policy</h1>
+  <p>Last updated: June 11, 2026</p>
+</header>
+<main>
+  <section>
+    <h2>Introduction</h2>
+    <p>Thank you for using Hermann's Adventure. We are committed to protecting your privacy and handling your information with care.</p>
+  </section>
+  <section>
+    <h2>Information We Collect</h2>
+    <p>The App does not collect any personal information. We do not collect names, email addresses, location data, or any other personally identifiable information.</p>
+  </section>
+  <section>
+    <h2>Internet Communication</h2>
+    <p>The App does not transmit any data to external servers. All data is stored solely on your device.</p>
+  </section>
+  <section>
+    <h2>Third-Party Sharing</h2>
+    <p>The App does not share, sell, or disclose any user data to third parties.</p>
+  </section>
+  <section>
+    <h2>Advertising &amp; Analytics</h2>
+    <p>The App does not display advertisements or use any analytics tools.</p>
+  </section>
+  <section>
+    <h2>Contact</h2>
+    <p>If you have any questions regarding this Privacy Policy, please contact us through the app's store page.</p>
+  </section>
+</main>
+<footer>
+  <p>&copy; 2026 Kodai Kobayashi. All rights reserved.</p>
+</footer>
+</body>
+</html>
